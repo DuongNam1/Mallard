@@ -1,0 +1,4 @@
+Current known issues in the code that haven't been fixed:
+
+- syzygy folder is missing
+- Not sure if the model can learn
