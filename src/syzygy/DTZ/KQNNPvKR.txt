@@ -1,0 +1,133 @@
+########## KQNNPvKR ##########
+
+White to move:
+
+519324056482 positions win in 1 ply.
+2190747268 positions win in 2 ply.
+59920958714 positions win in 3 ply.
+491001372 positions win in 4 ply.
+10242430870 positions win in 5 ply.
+85487744 positions win in 6 ply.
+1356253224 positions win in 7 ply.
+16471788 positions win in 8 ply.
+203893108 positions win in 9 ply.
+5306056 positions win in 10 ply.
+59939746 positions win in 11 ply.
+2338336 positions win in 12 ply.
+21114162 positions win in 13 ply.
+1032206 positions win in 14 ply.
+8228090 positions win in 15 ply.
+372198 positions win in 16 ply.
+3158114 positions win in 17 ply.
+164192 positions win in 18 ply.
+1550886 positions win in 19 ply.
+86234 positions win in 20 ply.
+865708 positions win in 21 ply.
+47726 positions win in 22 ply.
+502780 positions win in 23 ply.
+26884 positions win in 24 ply.
+214690 positions win in 25 ply.
+16374 positions win in 26 ply.
+120144 positions win in 27 ply.
+9108 positions win in 28 ply.
+57452 positions win in 29 ply.
+3140 positions win in 30 ply.
+18524 positions win in 31 ply.
+1142 positions win in 32 ply.
+9192 positions win in 33 ply.
+578 positions win in 34 ply.
+3976 positions win in 35 ply.
+326 positions win in 36 ply.
+2062 positions win in 37 ply.
+182 positions win in 38 ply.
+1356 positions win in 39 ply.
+96 positions win in 40 ply.
+396 positions win in 41 ply.
+78 positions win in 42 ply.
+128 positions win in 43 ply.
+96 positions win in 44 ply.
+90 positions win in 45 ply.
+18 positions win in 46 ply.
+56 positions win in 47 ply.
+12 positions win in 48 ply.
+48 positions win in 49 ply.
+4 positions win in 50 ply.
+
+593936493156 positions are wins.
+548482794 positions are draws.
+220806580 positions are losses.
+
+136531626 positions lose in 0 ply.
+293778 positions lose in 1 ply.
+83956640 positions lose in 2 ply.
+24460 positions lose in 4 ply.
+76 positions lose in 6 ply.
+
+Black to move:
+
+1073144130 positions win in 1 ply.
+1818106 positions win in 2 ply.
+439313700 positions win in 3 ply.
+117508 positions win in 5 ply.
+346 positions win in 7 ply.
+
+1514393790 positions are wins.
+127321305554 positions are draws.
+722869232080 positions are losses.
+
+4083114274 positions lose in 0 ply.
+7711347468 positions lose in 1 ply.
+430990100770 positions lose in 2 ply.
+5178453104 positions lose in 3 ply.
+214060865812 positions lose in 4 ply.
+2167729858 positions lose in 5 ply.
+49781098268 positions lose in 6 ply.
+426023116 positions lose in 7 ply.
+6946641776 positions lose in 8 ply.
+79971410 positions lose in 9 ply.
+981031572 positions lose in 10 ply.
+22658858 positions lose in 11 ply.
+264625012 positions lose in 12 ply.
+9168544 positions lose in 13 ply.
+90525634 positions lose in 14 ply.
+3958278 positions lose in 15 ply.
+36286944 positions lose in 16 ply.
+1560686 positions lose in 17 ply.
+15134650 positions lose in 18 ply.
+728184 positions lose in 19 ply.
+7734298 positions lose in 20 ply.
+407530 positions lose in 21 ply.
+4588050 positions lose in 22 ply.
+236072 positions lose in 23 ply.
+2724238 positions lose in 24 ply.
+138336 positions lose in 25 ply.
+1134922 positions lose in 26 ply.
+84478 positions lose in 27 ply.
+622170 positions lose in 28 ply.
+44256 positions lose in 29 ply.
+286460 positions lose in 30 ply.
+14464 positions lose in 31 ply.
+92626 positions lose in 32 ply.
+5396 positions lose in 33 ply.
+46778 positions lose in 34 ply.
+2868 positions lose in 35 ply.
+19934 positions lose in 36 ply.
+1542 positions lose in 37 ply.
+10910 positions lose in 38 ply.
+826 positions lose in 39 ply.
+7150 positions lose in 40 ply.
+460 positions lose in 41 ply.
+2062 positions lose in 42 ply.
+322 positions lose in 43 ply.
+588 positions lose in 44 ply.
+322 positions lose in 45 ply.
+334 positions lose in 46 ply.
+74 positions lose in 47 ply.
+190 positions lose in 48 ply.
+40 positions lose in 49 ply.
+150 positions lose in 50 ply.
+16 positions lose in 51 ply.
+
+Longest win for white: 51 ply; k7/P2Q4/4N3/4K3/1Nr5/8/8/8 b - -
+Longest win for black: 7 ply; QN5K/1P6/4k3/1r6/N7/8/8/8 b - -
+
