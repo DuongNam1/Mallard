@@ -2,7 +2,6 @@ import math
 import random
 import threading
 import chess
-from evaluation import cached_batched_evaluate, extract_features, get_model
 import torch
 import numpy as np
 from engine import load_default_model as get_model
@@ -142,4 +141,5 @@ def select_best_move(board, evaluate_fn=cached_batched_evaluate, sims=100, c_puc
 
     best_move = max(root.children.items(), key=lambda item: item[1].visits)[0]
     return best_move
+
 
