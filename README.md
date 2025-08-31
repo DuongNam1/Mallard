@@ -1,4 +1,4 @@
 # Mallard
-A free and open-source neural network chess engine made in C++ and Python
+A free and open-source neural network chess engine made in Python
 
-# The engine is currently under maintenance. The source code in this repository is mismatched from the local version of the engine and is closed-source for now.
+Uhh contribute I guess? There has not been any contributor, I have been doing all the heavy stuff, and it's really tough.
