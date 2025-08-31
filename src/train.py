@@ -114,7 +114,7 @@ for epoch in range(1, EPOCHS + 1):
         loss_policy = policy_loss_fn(policy_logits, batch_policy_y)
         loss_value = value_loss_fn(value_pred, batch_value_y)
 
-        loss = loss_policy + loss_value
+        loss = loss_policy + 0.5*loss_value
         loss.backward()
         optimizer.step()
         total_loss += loss.item()
