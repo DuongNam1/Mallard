@@ -1,0 +1,70 @@
+########## KBBBBNvK ##########
+
+White to move:
+
+5275756620 positions win in 1 ply.
+15860852172 positions win in 2 ply.
+6978091848 positions win in 3 ply.
+24626335944 positions win in 4 ply.
+15485543208 positions win in 5 ply.
+39891001524 positions win in 6 ply.
+11643133068 positions win in 7 ply.
+28560131496 positions win in 8 ply.
+4545413184 positions win in 9 ply.
+11328166092 positions win in 10 ply.
+463785000 positions win in 11 ply.
+4866519204 positions win in 12 ply.
+55034052 positions win in 13 ply.
+5071270092 positions win in 14 ply.
+52111116 positions win in 15 ply.
+4151155824 positions win in 16 ply.
+30407016 positions win in 17 ply.
+2085262632 positions win in 18 ply.
+8354952 positions win in 19 ply.
+375142392 positions win in 20 ply.
+538848 positions win in 21 ply.
+13657260 positions win in 22 ply.
+1584 positions win in 23 ply.
+46320 positions win in 24 ply.
+
+181367711448 positions are wins.
+9422496 positions are draws.
+0 positions are losses.
+
+
+Black to move:
+
+
+0 positions are wins.
+5484690348 positions are draws.
+345114205572 positions are losses.
+
+2463526104 positions lose in 0 ply.
+5614918464 positions lose in 1 ply.
+3502681908 positions lose in 2 ply.
+16632301356 positions lose in 3 ply.
+12163681968 positions lose in 4 ply.
+42329403876 positions lose in 5 ply.
+25291457388 positions lose in 6 ply.
+74837566488 positions lose in 7 ply.
+29105438616 positions lose in 8 ply.
+64745073648 positions lose in 9 ply.
+11469250044 positions lose in 10 ply.
+24809630328 positions lose in 11 ply.
+1196843652 positions lose in 12 ply.
+8329116240 positions lose in 13 ply.
+94565064 positions lose in 14 ply.
+8633381232 positions lose in 15 ply.
+92918508 positions lose in 16 ply.
+8471832048 positions lose in 17 ply.
+65772360 positions lose in 18 ply.
+4404383904 positions lose in 19 ply.
+18445212 positions lose in 20 ply.
+812142372 positions lose in 21 ply.
+1178700 positions lose in 22 ply.
+28570908 positions lose in 23 ply.
+3864 positions lose in 24 ply.
+121320 positions lose in 25 ply.
+
+Longest win for white: 25 ply; 8/8/8/8/8/2B5/1B2k1N1/BK2B3 b - -
+
