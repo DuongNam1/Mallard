@@ -1,5 +1,3 @@
-# The training has been giving me a huge pain in the dick. I'd rather stick my face to an elephant's butt than babysitting this fucking moronic code. FUCKKKK FUCKKK FUCKK FUCKKKKKK FUCKKK BITCH SHIT CUNT CUNT CUNT FUCKKK
-
 import os
 import torch
 import torch.nn as nn
@@ -232,4 +230,5 @@ def self_play_rl(model, games=20, gamma=1.0):
     model.eval()
 
 print("\nStarting reinforcement learning via self-play...")
+
 self_play_rl(model, games=RL_GAMES)
