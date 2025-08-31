@@ -34,7 +34,7 @@ def game_status(board):
         return "draw threefold repetition"
     if board.can_claim_fifty_moves():
         return "draw 50-move rule"
-    syzygy_tb.close()
+    close_syzygy()
     return None
 
 def evaluate(board, model=None):
