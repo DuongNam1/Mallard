@@ -1,3 +1,4 @@
 List of the features that will be added in the future:
 
+- Make a training client.
 - Switch to C++ and Python hybrid, C++ for main engine core stuff and Python for training only. C++ loads the PyTorch model file.
