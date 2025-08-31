@@ -56,4 +56,5 @@ def play_matches(new_model_path, old_model_path, num_games=10):
 
 if __name__ == "__main__":
     results = play_matches("checkpoints/model_v2.pt", "checkpoints/model_v1.pt", num_games=4)
-    close.syzygy()
+
+    close_syzygy()
