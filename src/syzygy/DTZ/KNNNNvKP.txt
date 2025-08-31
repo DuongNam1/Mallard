@@ -1,0 +1,127 @@
+########## KNNNNvKP ##########
+
+White to move:
+
+298909815840 positions win in 1 ply.
+24812025264 positions win in 2 ply.
+314699955168 positions win in 3 ply.
+5806147416 positions win in 4 ply.
+82059719592 positions win in 5 ply.
+728971320 positions win in 6 ply.
+10774630848 positions win in 7 ply.
+131576544 positions win in 8 ply.
+2692229880 positions win in 9 ply.
+32503320 positions win in 10 ply.
+762239472 positions win in 11 ply.
+8964480 positions win in 12 ply.
+190439904 positions win in 13 ply.
+2337024 positions win in 14 ply.
+41088144 positions win in 15 ply.
+523080 positions win in 16 ply.
+9134016 positions win in 17 ply.
+110496 positions win in 18 ply.
+2042688 positions win in 19 ply.
+26352 positions win in 20 ply.
+518328 positions win in 21 ply.
+5592 positions win in 22 ply.
+127416 positions win in 23 ply.
+1272 positions win in 24 ply.
+30312 positions win in 25 ply.
+168 positions win in 26 ply.
+7272 positions win in 27 ply.
+1176 positions win in 29 ply.
+288 positions win in 31 ply.
+24 positions win in 33 ply.
+10021584 positions win in 102 ply.
+1852632 positions win in 104 ply.
+368136 positions win in 106 ply.
+75840 positions win in 108 ply.
+16632 positions win in 110 ply.
+3456 positions win in 112 ply.
+672 positions win in 114 ply.
+48 positions win in 116 ply.
+
+741665172696 positions are wins.
+12339000 positions are cursed wins.
+4119124992 positions are draws.
+43224 positions are cursed losses.
+46233720 positions are losses.
+
+999600 positions lose in 0 ply.
+39998160 positions lose in 2 ply.
+4696488 positions lose in 4 ply.
+493776 positions lose in 6 ply.
+43392 positions lose in 8 ply.
+2280 positions lose in 10 ply.
+24 positions lose in 12 ply.
+40224 positions lose in 102 ply.
+2688 positions lose in 104 ply.
+168 positions lose in 106 ply.
+144 positions lose in 108 ply.
+
+Black to move:
+
+4980458160 positions win in 1 ply.
+36674664 positions win in 3 ply.
+2320728 positions win in 5 ply.
+177072 positions win in 7 ply.
+11760 positions win in 9 ply.
+432 positions win in 11 ply.
+48 positions win in 13 ply.
+5303904 positions win in 101 ply.
+25392 positions win in 103 ply.
+1032 positions win in 105 ply.
+216 positions win in 107 ply.
+24 positions win in 109 ply.
+
+5019642864 positions are wins.
+5330568 positions are cursed wins.
+80857763472 positions are draws.
+607751592 positions are cursed losses.
+936311912784 positions are losses.
+
+421782360 positions lose in 0 ply.
+5845825296 positions lose in 1 ply.
+358035326712 positions lose in 2 ply.
+13080552480 positions lose in 3 ply.
+424615467504 positions lose in 4 ply.
+7112670264 positions lose in 5 ply.
+112004050752 positions lose in 6 ply.
+694762968 positions lose in 7 ply.
+11163779928 positions lose in 8 ply.
+119163432 positions lose in 9 ply.
+2429428608 positions lose in 10 ply.
+27622200 positions lose in 11 ply.
+600849864 positions lose in 12 ply.
+6561816 positions lose in 13 ply.
+123538176 positions lose in 14 ply.
+1257792 positions lose in 15 ply.
+23037672 positions lose in 16 ply.
+235944 positions lose in 17 ply.
+4664136 positions lose in 18 ply.
+50664 positions lose in 19 ply.
+985464 positions lose in 20 ply.
+10824 positions lose in 21 ply.
+220992 positions lose in 22 ply.
+1848 positions lose in 23 ply.
+49632 positions lose in 24 ply.
+432 positions lose in 25 ply.
+11352 positions lose in 26 ply.
+3000 positions lose in 28 ply.
+504 positions lose in 30 ply.
+120 positions lose in 32 ply.
+48 positions lose in 34 ply.
+598668336 positions lose in 101 ply.
+7852008 positions lose in 103 ply.
+1025184 positions lose in 105 ply.
+166392 positions lose in 107 ply.
+30864 positions lose in 109 ply.
+7512 positions lose in 111 ply.
+1224 positions lose in 113 ply.
+72 positions lose in 115 ply.
+
+Longest win for white: 34 ply; 3N1N2/8/4N2N/8/5k2/8/p7/3K4 b - -
+Longest cursed win for white: 116 ply; 4N2N/2N5/K6N/2k5/8/8/1p6/8 w - -
+Longest cursed win for black: 109 ply; 3N3N/6N1/4k3/8/8/8/1p6/N6K b - -
+Longest win for black: 13 ply; 1N5N/1N6/5k2/8/6N1/8/1p6/7K b - -
+
