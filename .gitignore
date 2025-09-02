@@ -3,6 +3,7 @@
 **/*.txt
 **/*.json
 .vscode/
+scripts/__init__.py
 scripts/games/
 scripts/checkpoints/
 scripts/__pycache__/
