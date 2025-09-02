@@ -1,6 +1,6 @@
 **/*.pt
 **/*.exe
-**/*.txt
+scripts/*.txt
 **/*.json
 .vscode/
 scripts/__init__.py
