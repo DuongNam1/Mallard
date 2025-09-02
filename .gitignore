@@ -2,5 +2,6 @@
 *.exe
 *.txt
 games/
-checkpoint/
+checkpoints/
 __pycache__/
+*.json
