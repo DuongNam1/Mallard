@@ -1,3 +1,6 @@
 *.pt
 *.exe
 *.txt
+games/
+checkpoint/
+__pycache__/
