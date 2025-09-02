@@ -1,7 +1,9 @@
 *.pt
 *.exe
 *.txt
+*.json
+.vscode/
+desktop.ini
 games/
 checkpoints/
 __pycache__/
-*.json
