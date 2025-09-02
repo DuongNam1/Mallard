@@ -1,2 +1,3 @@
-model.pt
-stockfish.exe
+*.pt
+*.exe
+*.txt
