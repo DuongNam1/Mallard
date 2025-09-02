@@ -6,3 +6,4 @@
 scripts/games/
 scripts/checkpoints/
 scripts/__pycache__/
+src/syzygy/
